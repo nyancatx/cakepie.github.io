@@ -1,5 +1,4 @@
 ## Hello World!
-## LYH SB!!!
 #### 诶嘿嘿,我太喜欢 Hello World! 了
 C++:
 ```markdown
@@ -8,7 +7,6 @@ using namespace std;
 int main()
 {
   cout<<"Hello World!";
-  //LYH SB
   return 0;
 }
 ```
@@ -16,5 +14,4 @@ int main()
 Python:
 ```markdown
 print('Hello World!')
-#LYH SB
 ```
