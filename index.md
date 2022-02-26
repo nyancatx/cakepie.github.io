@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="/nyancatx.png" width="120" height="120">
+  <img src="/nyancatx_head.png" width="120" height="120">
   <br>
   <b>
     nyancatx
