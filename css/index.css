@@ -1,0 +1,53 @@
+/*超链接*/
+a{
+    color: black;
+    text-decoration: none;
+}
+a:link{color:black;}
+a:visited{color:black;}
+a:hover{color:rgb(0,174,236);}
+a:active{color:blue;}
+
+/*背景*/
+body{
+    background-color: whitesmoke;
+}
+/*介绍页*/
+.id{
+    text-align: center;
+    vertical-align: middle;
+    font-family: "微软雅黑";
+}
+.id hr{
+    border-top: 2px dashed gray;
+    width: 80%;
+}
+
+/*头像*/
+.head{
+    width: 120px;
+    height: 120px;
+    vertical-align: middle;
+    margin-top: 0mm;
+    transition: margin-top 2s;
+    margin-top: 10mm;
+}
+/*名字*/
+.name{
+    font-weight: bold;
+}
+/*签名*/
+.m-about{
+    letter-spacing: 2px;
+    color: gray;
+}
+/*导航页*/
+.m-nav{
+    list-style-type: none;
+    word-spacing: 20px;
+}
+.m-nav li{
+    display: inline;
+    padding: 8px 15px;
+    transition: 2s;
+}
